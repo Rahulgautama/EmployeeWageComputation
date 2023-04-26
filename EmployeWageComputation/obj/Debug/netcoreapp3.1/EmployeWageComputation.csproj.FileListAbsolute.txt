@@ -1,0 +1,11 @@
+D:\DLS-RFP-278\Project\EmployeWageComputation\EmployeWageComputation\bin\Debug\netcoreapp3.1\EmployeWageComputation.exe
+D:\DLS-RFP-278\Project\EmployeWageComputation\EmployeWageComputation\bin\Debug\netcoreapp3.1\EmployeWageComputation.deps.json
+D:\DLS-RFP-278\Project\EmployeWageComputation\EmployeWageComputation\bin\Debug\netcoreapp3.1\EmployeWageComputation.runtimeconfig.json
+D:\DLS-RFP-278\Project\EmployeWageComputation\EmployeWageComputation\bin\Debug\netcoreapp3.1\EmployeWageComputation.runtimeconfig.dev.json
+D:\DLS-RFP-278\Project\EmployeWageComputation\EmployeWageComputation\bin\Debug\netcoreapp3.1\EmployeWageComputation.dll
+D:\DLS-RFP-278\Project\EmployeWageComputation\EmployeWageComputation\bin\Debug\netcoreapp3.1\EmployeWageComputation.pdb
+D:\DLS-RFP-278\Project\EmployeWageComputation\EmployeWageComputation\obj\Debug\netcoreapp3.1\EmployeWageComputation.csprojAssemblyReference.cache
+D:\DLS-RFP-278\Project\EmployeWageComputation\EmployeWageComputation\obj\Debug\netcoreapp3.1\EmployeWageComputation.AssemblyInfoInputs.cache
+D:\DLS-RFP-278\Project\EmployeWageComputation\EmployeWageComputation\obj\Debug\netcoreapp3.1\EmployeWageComputation.AssemblyInfo.cs
+D:\DLS-RFP-278\Project\EmployeWageComputation\EmployeWageComputation\obj\Debug\netcoreapp3.1\EmployeWageComputation.dll
+D:\DLS-RFP-278\Project\EmployeWageComputation\EmployeWageComputation\obj\Debug\netcoreapp3.1\EmployeWageComputation.pdb
