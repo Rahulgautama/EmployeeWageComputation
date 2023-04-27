@@ -6,27 +6,26 @@ namespace EmployeWageComputation
 {
     class EmployeeCheck
     {
+        public const int EMP_RAT_PER_HOUR = 20;
+        public const int IS_Full_TIME = 1;
+       public const int IS_PART_TIME = 2;
         public static void EmployeeAttendance()
-        {
-            int EMP_RAT_PER_HOUR = 20;
-            int Is_Full_Time = 1;
-            int IS_PART_Time = 2;
+        {            
             int empHour = 0;
             int empWage = 0;
             Random random = new Random();
             int empCheck =random.Next(3);
-            if (empCheck == Is_Full_Time)
+            switch(empCheck)
             {
-                empHour = 8;
-            }
-            else if (empCheck == IS_PART_Time)
-            {
-                empHour = 4;
-            }
-            else 
-            {
-
-                empHour = 0;
+                case IS_Full_TIME:
+                    empHour = 8;
+                    break;
+                case IS_PART_TIME:
+                    empHour = 4;
+                    break;
+                default:
+                    empHour = 0;
+                    break;
             }
             empWage = empHour * EMP_RAT_PER_HOUR;
             Console.WriteLine("Employee Wage :"+empWage);
